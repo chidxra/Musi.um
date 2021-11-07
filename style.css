@@ -1,0 +1,244 @@
+.nav {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+.kellyImg {
+ max-width:15%;
+ height: auto;  
+ justify-content: space-evenly;
+}
+ 
+
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+adwsxgvdbrzh frxgt5655655+
+body {
+  background-color: rgb(0, 0, 59);
+  font-family: "LeHavreRough-Primary","Arial Black",Arial,sans-serif;
+}
+.websiteMusiUm{
+  background-color: rgb(0, 0, 59);
+  padding-left: 10px;
+  padding-top: 0px;
+  color: aliceblue;
+  font-size: 25px
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  /*Trust me this nav bar looks better on the actual page*/
+}
+
+a {
+  text-decoration: none;
+}
+
+.spotify {
+  color: grey;
+}
+
+.paraOne{
+  font-size: 18px;
+}
+
+.creatorsCredit{
+  font-size: 25px;
+}
+
+.toggleOn {
+  display: grid;
+}
+
+
+/*I took a lot of the code after this point from w3schools
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color:aliceblue;
+  color: rgb(0, 0, 59);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  font-family: "LeHavreRough-Primary","Arial Black",Arial,sans-serif;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.collapsible:hover {
+  background-color: white;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: rgb(0, 0, 59);
+  color:white;
+}
+
+
+
+/*kelly*/
+
+.kellLinks{
+  color: aquamarine;
+}
+.kellLink{
+  color: aquamarine;
+}
+.kellyClarkson {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2018/06/kelly-clarkson-video-5adb7880-4c43-4308-a430-d28d42782da3.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: aquamarine;
+}
+
+
+/*chloe x halle*/
+
+.chloexhalle {
+  background-image: url("https://media.gq-magazine.co.uk/photos/5f2aab79c3c5de25fb0f5605/master/pass/20200804-chloe-02.jpg");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+
+/*moremusic*/
+.musicLinks{
+  color: darkred;
+}
+.moreMusic {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2021/05/CTE_4978_2.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: darkred;
+  background-color: black;
+}
+
+.cNav {
+  color: white;
+}
+
+/*wdw*/
+.wdwLinks{
+  color: darkseagreen;
+}
+.wdw {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2019/07/ZackCasparyW.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color:darkseagreen;
+}
+
+/*taylorswift*/
+.swiftLinks{
+  color: chocolate;
+}
+.taylorSwift {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2021/04/taylor-swift-exile-bon-iver.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: chocolate;
+}
+
+
+/*drake*/
+.drakeLinks{
+  color: white;
+}
+.drake {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2021/06/AP20308559727382-1.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+/*kendrick*/
+.kLinks{
+  color: white;
+}
+.kendricklamar {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2018/06/kl-3b36eaa9-fc89-4d52-b4d9-c354cfb8fcf6.jpg?w=1024");
+  height: 500px;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+
+/*j cole*/
+.jLinks{
+  color: yellow;
+}
+.jcole {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2021/05/J.-Cole_Lead-Promo-Image.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: yellow;
+}
+ 
+
+/*rico*/
+.ricoBody {
+  background-image: url("data:image/jpeg;base64,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");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+
+.ricoLinks {
+  color: white;
+}
+
+/*cxh*/
+
+.cNav {
+  color: white;
+}
+
+.cNav:visited {
+  color:white;
+}
+
+/*Willow*/
+.willowS {
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-19-at-8.17.50-AM.jpg?w=1024");
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+
+.willowLinks {
+  color: white;
+}
